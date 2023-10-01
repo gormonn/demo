@@ -3,6 +3,8 @@
 
 ![demo-gp](https://github.com/gormonn/demo/assets/6252560/17829213-1c92-403e-a36c-153b91e69e5e)
 
+This is a pre-alpha version of my implementation of the game "Mineweeper". 
+
 The main project is at an early stage of development, in a private repository.
 
 This repository will only contain a build to demonstrate various results.
